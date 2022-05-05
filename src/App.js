@@ -11,7 +11,7 @@ function App() {
     <div>
       <button 
         style={{backgroundColor: buttonColor}}
-        onClick={() => setButtonColor(newButtonColor)}
+        onClick={() => setButtonColor(newButtonColor)}q
       >
       Change to {newButtonColor}
       </button>
